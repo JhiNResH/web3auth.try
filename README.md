@@ -4,8 +4,8 @@ This starter kit has been created and crafted to provide an initial grasp and co
 
 Starter kit code is organised by branches name:
 
-**Main - Web3Auth Starter Kit**
-![Starter Kits For Web3](web3Auth.png)
+- **Main - Web3Auth Starter Kit**
+  ![Starter Kits For Web3](web3Auth.png)
 
 **About Me:**
 **Tahir Ahmad**, BlockChain Lead at OneRare and having aim to onboard people to Web3.
