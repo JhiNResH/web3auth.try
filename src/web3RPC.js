@@ -460,8 +460,6 @@ export default class RPC {
       // Get user's Ethereum public address
       const fromAddress = (await web3.eth.getAccounts())[0];
 
-      const destination = fromAddress;
-
       //dsdf
       const response = await tokenContract.methods
         .approve(
