@@ -203,7 +203,7 @@ function App() {
       }}
     >
       <h3 style={{ textAlign: "center", marginTop: 30 }}>
-        Web3Auth React Example
+        Web3Auth
       </h3>
       <div className="row">
         <div className="col-md-3">
