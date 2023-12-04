@@ -6,7 +6,7 @@ import RPC from "./web3RPC";
 import "./App.css";
 
 const clientId =
-  "BMkKHE4n2KgzLWFXDmpCVIpWMggQ8Pe8_4pRkbm9aNafKnn0WRlb1zoy6JlOh2nN2Aw54jIAbFbsAUut3tuJr8w"; // get from https://dashboard.web3auth.io
+  "BGGg-DdWvuA2HKx_L3J-ii-NsCio98W-5KeSlGxYy_rwxjZvYl1e2QZuKTaFzoftZc0o4faBGYwI9VYv-9qHbPU"; // get from https://dashboard.web3auth.io
 
 function App() {
   const [web3auth, setWeb3auth] = useState(null);
